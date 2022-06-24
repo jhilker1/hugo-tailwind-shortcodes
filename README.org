@@ -1,0 +1,2 @@
+#+title: hugo-tailwind-shortcodes
+A collection of shortcodes for Hugo, built with tailwindcss
